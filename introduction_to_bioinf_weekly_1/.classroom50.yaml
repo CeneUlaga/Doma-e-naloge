@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "introduction-to-bioinformatics-2026"
+assignment: "weekly-1"
+owner:
+  username: "CeneUlaga"
+  id: 226849847
+  accepted_at: "2026-10-11T19:31:27Z"
+source:
+  owner: "IB-ULFRI-2026"
+  owner_id: 332842237
+  repo: "weekly-assignment-1"
+  branch: "main"
